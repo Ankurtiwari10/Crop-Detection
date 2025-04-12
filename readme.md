@@ -5,4 +5,5 @@ Team Members::
 3-ANKUR RAJ KUMAR 
 4- ANANYA SHUKLA
 
-we have a feature of picture recognition
+Mine project  is Crop Detected 
+
